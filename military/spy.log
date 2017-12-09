@@ -1,0 +1,155 @@
+1508885244071|77|statement|connection 9|select relname from pg_class where relkind='S'|
+1508885482505|102|statement|connection 9|select relname from pg_class where relkind='S'|
+1508886955599|51|statement|connection 9|select relname from pg_class where relkind='S'|
+1508887036379|8|statement|connection 9|select relname from pg_class where relkind='S'|
+1508887125149|7|statement|connection 9|select relname from pg_class where relkind='S'|
+1508887579875|61|statement|connection 9|select relname from pg_class where relkind='S'|
+1508888502617|68|statement|connection 9|select relname from pg_class where relkind='S'|
+1508888525036|272|statement|connection 9|select test0_.id as id1_0_, test0_.name as name2_0_ from test test0_ where test0_.id=?|select test0_.id as id1_0_, test0_.name as name2_0_ from test test0_ where test0_.id=1
+1508888937010|7|statement|connection 9|select relname from pg_class where relkind='S'|
+1508888969355|3|statement|connection 9|select test0_.id as id1_0_, test0_.name as name2_0_ from test test0_|select test0_.id as id1_0_, test0_.name as name2_0_ from test test0_
+1508888969386|1|commit|connection 9||
+1508889048713|1|statement|connection 9|select test0_.id as id1_0_, test0_.name as name2_0_ from test test0_|select test0_.id as id1_0_, test0_.name as name2_0_ from test test0_
+1508889048713|0|commit|connection 9||
+1508931239106|6|statement|connection 9|select relname from pg_class where relkind='S'|
+1508932163490|19|statement|connection 9|select relname from pg_class where relkind='S'|
+1508932231527|32|statement|connection 9|select relname from pg_class where relkind='S'|
+1509135812646|226|statement|connection 9|select relname from pg_class where relkind='S'|
+1509135815724|783|statement|connection 8|alter table helicopters add constraint FKn1mxqpnb623syouwb310c9pu2 foreign key (type_id) references helicopter_types|
+1509136013511|794|statement|connection 9|select relname from pg_class where relkind='S'|
+1509223311898|90|statement|connection 9|select relname from pg_class where relkind='S'|
+1509243496743|541|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509243496743|541|statement|connection 8|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509243497337|47|commit|connection 8||
+1509243497339|49|commit|connection 9||
+1509399883158|154|statement|connection 9|select relname from pg_class where relkind='S'|
+1509400058524|355|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509400059434|3|commit|connection 9||
+1509400172978|3|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509400172995|3|commit|connection 9||
+1509568068310|224|statement|connection 9|select relname from pg_class where relkind='S'|
+1509568433005|191|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568433320|2|commit|connection 9||
+1509568650944|1|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568650948|0|commit|connection 9||
+1509568686038|1|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568686042|0|commit|connection 9||
+1509568860432|1|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568860436|4|commit|connection 9||
+1509568862891|1|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568862903|0|commit|connection 9||
+1509568872580|53|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568872639|0|commit|connection 9||
+1509568894046|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568894048|0|commit|connection 9||
+1509568907926|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568907926|0|commit|connection 9||
+1509568922371|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568922371|0|commit|connection 9||
+1509568929773|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568929777|0|commit|connection 9||
+1509568937755|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568937756|0|commit|connection 9||
+1509568945680|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568945680|0|commit|connection 9||
+1509568962568|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568962568|0|commit|connection 9||
+1509568963604|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568963621|0|commit|connection 9||
+1509568989944|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509568989944|0|commit|connection 9||
+1509570008510|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509570008692|0|commit|connection 9||
+1509570009663|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509570009664|0|commit|connection 9||
+1509570013345|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509570013347|0|commit|connection 9||
+1509570074338|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509570074369|29|commit|connection 9||
+1509570081024|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509570081025|0|commit|connection 9||
+1509570670159|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509570670160|0|commit|connection 9||
+1509570824787|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509570824797|0|commit|connection 9||
+1509570830979|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509570830980|0|commit|connection 9||
+1509570837659|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509570837660|0|commit|connection 9||
+1509572087720|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509572087721|0|commit|connection 9||
+1509572119067|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509572119069|0|commit|connection 9||
+1509572142943|20|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1509572142945|0|commit|connection 9||
+1509998060094|368|statement|connection 9|select relname from pg_class where relkind='S'|
+1510000416721|578|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000416721|578|statement|connection 8|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000416983|102|rollback|connection 9||
+1510000416983|102|rollback|connection 8||
+1510000424848|1|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000424850|0|rollback|connection 9||
+1510000438541|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000438544|0|rollback|connection 9||
+1510000462080|1|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000462081|0|rollback|connection 9||
+1510000500499|15|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000500536|0|rollback|connection 9||
+1510000718579|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000718581|0|rollback|connection 9||
+1510000725979|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000726070|0|rollback|connection 9||
+1510000752246|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000752248|0|rollback|connection 9||
+1510000756825|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000756826|0|rollback|connection 9||
+1510000774523|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000774524|0|rollback|connection 9||
+1510000829692|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000829693|0|rollback|connection 9||
+1510000841977|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000841978|0|rollback|connection 9||
+1510000843374|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000843430|0|rollback|connection 9||
+1510000913299|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000913339|0|rollback|connection 9||
+1510000915434|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000915439|1|rollback|connection 9||
+1510000925173|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000925175|0|rollback|connection 9||
+1510000951824|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000951826|0|rollback|connection 9||
+1510000980838|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000980839|0|rollback|connection 9||
+1510000990558|41|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000990559|0|rollback|connection 9||
+1510000991727|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510000991745|16|rollback|connection 9||
+1510001017056|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510001017058|0|rollback|connection 9||
+1510001028259|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510001028260|0|rollback|connection 9||
+1510001068878|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510001068879|0|rollback|connection 9||
+1510001084582|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510001084583|0|rollback|connection 9||
+1510001094470|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510001094471|0|rollback|connection 9||
+1510001117433|35|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510001117434|0|rollback|connection 9||
+1510001243954|0|statement|connection 9|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_|select test0_.id as id1_3_, test0_.name as name2_3_ from test test0_
+1510001243956|0|rollback|connection 9||
+1510002116794|209|statement|connection 9|select relname from pg_class where relkind='S'|
+1510002118943|628|statement|connection 8|alter table login_details add column ativation_key varchar(255)|
+1510002120041|1091|statement|connection 8|create table test (id  bigserial not null, name varchar(255), primary key (id))|
+1510002121012|417|statement|connection 8|alter table helicopters add constraint FKn1mxqpnb623syouwb310c9pu2 foreign key (type_id) references helicopter_types|
+1510002121234|148|statement|connection 8|alter table user_roles add constraint FKhfh9dx7w3ubf1co1vdev94g3f foreign key (user_id) references users|
+1510005908811|99|statement|connection 9|select relname from pg_class where relkind='S'|
+1510086915422|514|statement|connection 9|select relname from pg_class where relkind='S'|
+1510260439984|228|statement|connection 9|select relname from pg_class where relkind='S'|
+1510771170733|289|statement|connection 9|select relname from pg_class where relkind='S'|
+1511471412853|278|statement|connection 9|select relname from pg_class where relkind='S'|
+1512743411795|361|statement|connection 9|select relname from pg_class where relkind='S'|
+1512749887389|768|statement|connection 9|select relname from pg_class where relkind='S'|
+1512753521987|178|statement|connection 9|select relname from pg_class where relkind='S'|
+1512832387316|168|statement|connection 9|select relname from pg_class where relkind='S'|

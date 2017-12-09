@@ -1,0 +1,22 @@
+<div class="container" fxLayout="column">
+  <div class="login-item" fxLayout='column' fxLayoutAlign='center center' fxLayoutGap='10px'>
+    <form class="form form-login" (submit)='login($event)'>
+      <div class="form-field">
+        <label class="user" for="login-username"><span class="hidden">Username</span></label>
+        <input [(ngModel)]="userCredentials.username"
+          id="login-username" type="text" class="form-input" placeholder="Username" required>
+      </div>
+
+      <div class="form-field">
+        <label class="lock" for="login-password"><span class="hidden">Password</span></label>
+        <input [(ngModel)]="userCredentials.password"
+          id="login-password" type="password" class="form-input" placeholder="Password" required>
+      </div>
+
+      <div class="form-field">
+        <input type="submit" value="Log in">
+      </div>
+    </form>
+  </div>
+</div>
+<md-tab></md-tab>
